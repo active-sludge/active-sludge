@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **a major internet provider's iOS app**
 
-- 🌱 I’m currently learning **iOS Design Patterns, RxSwift**
+- 🌱 I’m currently learning **iOS Design Patterns and Vapor**
 
 - 👯 I’m looking to collaborate on **anything exciting**
 
 - 📫 How to reach me **hcdayan@hotmail.com**
 
-- ⚡ Fun fact: **I used to work as a health, safety and environmental engineer in complex construction projects until late 2019.**
+- ⚡ Fun fact: **I used to work as an environmental engineer in complex construction projects until late 2019.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
