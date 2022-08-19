@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Can</h1>
 <h3 align="center">iOS Developer</h3>
 
-- 🔭 I’m currently working on **a major internet provider's iOS app**
+- 🔭 I’m currently working on **a major bank's iOS app** development. 
 
-- 🌱 I’m currently learning **iOS Design Patterns and Vapor**
+- 🌱 I’m currently learning **iOS Design Patterns**
 
 - 👯 I’m looking to collaborate on **anything exciting**
 
