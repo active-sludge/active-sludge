@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Can</h1>
 <h3 align="center">iOS Developer</h3>
 
-- 🔭 I’m currently working on **a major bank's iOS app** development. 
+- 🔭 I’m currently working on **Whitelabel iOS app** development using TCA (The Composable Architecture). 
 
-- 🌱 I’m currently learning **iOS Design Patterns**
-
-- 👯 I’m looking to collaborate on **anything exciting**
-
-- 📫 How to reach me **hcdayan@hotmail.com**
-
-- ⚡ Fun fact: **I used to work as an environmental engineer in complex construction projects until late 2019.**
+- 🌱 I’m currently learning **TCA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
